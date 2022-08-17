@@ -44,4 +44,5 @@ ViteJS: https://vitejs.dev/
 
 #### Font 🖋️
 Fipps font: https://pheist.net/fonts.php?id=51
+
 Bitmap font generator: https://snowb.org/
