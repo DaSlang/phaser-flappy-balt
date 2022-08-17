@@ -14,7 +14,7 @@ To run the game in debug mode use the command:
 npm run dev
 ```
 
-When in debug mode, phaser arcade physics is in debug mode also. To disable this behaviour set to false the ```debug```option in ```main.ts```:
+When in debug mode, phaser arcade physics is in debug mode also. To disable this behaviour set to false the ```debug``` option in ```main.ts```:
 
 ```typescript
 ...
