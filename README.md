@@ -1,5 +1,6 @@
 # Phaser Flappy Balt
-![Phaser Flappy Balt Screenshot](screenshot.png "Phaser Flappy Balt Screenshot")
+<img src="screenshot.png" alt="Phaser Flappy Balt Screenshot" width="200"/>
+
 A Phaser 3 edition of FlappyBalt by [adamatomic](http://adamatomic.com/).
 
 Ported from the [Haxeflixel version](https://haxeflixel.com/demos/Flappybalt/) of the game.
