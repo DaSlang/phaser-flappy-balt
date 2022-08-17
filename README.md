@@ -1,5 +1,6 @@
 # Phaser Flappy Balt
-![Phaser Flappy Balt Screenshot](screenshot.png "Phaser Flappy Balt Screenshot")
+<img src="screenshot.png" alt="Phaser Flappy Balt Screenshot" width="200"/>
+
 A Phaser 3 edition of FlappyBalt by [adamatomic](http://adamatomic.com/).
 
 Ported from the [Haxeflixel version](https://haxeflixel.com/demos/Flappybalt/) of the game.
@@ -13,7 +14,7 @@ To run the game in debug mode use the command:
 npm run dev
 ```
 
-When in debug mode, phaser arcade physics is in debug mode also. To disable this behaviour set to false the ```debug```option in ```main.ts```:
+When in debug mode, phaser arcade physics is in debug mode also. To disable this behaviour set to false the ```debug``` option in ```main.ts```:
 
 ```typescript
 ...
@@ -43,4 +44,5 @@ ViteJS: https://vitejs.dev/
 
 #### Font 🖋️
 Fipps font: https://pheist.net/fonts.php?id=51
+
 Bitmap font generator: https://snowb.org/
